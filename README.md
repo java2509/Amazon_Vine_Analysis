@@ -25,3 +25,8 @@ Dataset: [Toys Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/a
     - Percentage 5 Star Non - Vine Reviews: 48%
   
  ### Summary:
+
+There were 1,266 Vine reviews with 432 of those being 5 star reviews which is 34% of 5 star reviews.I The amount of 5 star Vine reviews (432) is significantly lower then the 5 star non-Vine reviews (29,982).I therefore conclude that there is no positivity bias for reviews in the Vine Program based on these results.
+
+We could do some statistical testing to further look into other factors to see if there is any further indication of positivity bias. We could broadern our positivity bias parameters and also look at what the total number and percentage of Vine 4 star reviews vs. Non-Vine 4 star reviews are. 
+
